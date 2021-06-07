@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\bin\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.deps.json
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\bin\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.dll
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\bin\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.pdb
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\obj\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\obj\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\obj\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.AssemblyInfo.cs
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\obj\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\obj\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.dll
+C:\Users\Asus\Desktop\STUDIA\semestr 6\PZ\ZapytaniaLINQ_magiczneZapytania\obj\Debug\netcoreapp3.1\ZapytaniaLINQ_magiczneZapytania.pdb
