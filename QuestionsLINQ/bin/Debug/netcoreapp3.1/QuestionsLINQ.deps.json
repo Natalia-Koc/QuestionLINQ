@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuestionsLINQ/1.0.0": {
+        "dependencies": {
+          "Library_QuestionsLINQ": "1.0.0"
+        },
+        "runtime": {
+          "QuestionsLINQ.dll": {}
+        }
+      },
+      "Library_QuestionsLINQ/1.0.0": {
+        "runtime": {
+          "Library_QuestionsLINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuestionsLINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library_QuestionsLINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
